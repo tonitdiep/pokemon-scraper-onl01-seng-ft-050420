@@ -14,5 +14,7 @@ class Pokemon
   
   def self.find
     
+    
+    Pokemon.new
   end
 end
