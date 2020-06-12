@@ -13,7 +13,7 @@ class Pokemon
   end
   
   def self.find(id, db)
-    
+    found_pokemon
     
     Pokemon.new
   end
